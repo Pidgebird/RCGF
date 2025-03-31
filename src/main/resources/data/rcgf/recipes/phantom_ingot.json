@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PHP",
+    "HPH",
+    "PHP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "H": {
+      "item": "minecraft:iron_ingot"
+    },
+  "result": {
+    "item": "rcgf:phantom_ingot",
+    "count": 1
+  }
+}}

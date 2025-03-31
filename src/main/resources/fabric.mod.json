@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "rcgf",
+	"version": "${version}",
+	"name": "RequiemCraft:Golden Fate",
+	"description": "A JoJo Mod.",
+	"authors": [
+		"XircTwerk"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.xirc.rcgf.RequiemCraftGoldenFate"
+		],
+		"client": [
+			"com.xirc.rcgf.RequiemCraftGoldenFateClient"
+		],
+		"fabric-datagen": [
+			"com.xirc.rcgf.RequiemCraftGoldenFateDataGenerator"
+		]
+	},
+	"mixins": [
+		"rcgf.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

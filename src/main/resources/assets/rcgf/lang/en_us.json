@@ -1,0 +1,16 @@
+{
+  "item.rcgf.hamon_ingot": "Hamon Ingot",
+  "item.rcgf.pillarite_ingot": "Pillarite Ingot",
+  "item.rcgf.phantom_ingot": "Phantom Ingot",
+  "item.rcgf.hamon_infused_blade": "Hamon Infused Blade",
+  "item.rcgf.luck_and_pluck": "Luck & Pluck",
+  "item.rcgf.luck": "Luck",
+
+
+  "item.rcgf.luck_and_pluck.buff_active": "Luck and Pluck power activated! Next attack deals double damage!",
+  "item.rcgf.luck_and_pluck.double_damage": "Double damage!",
+
+
+
+  "itemgroup.requiemcraft_items": "RequiemCraft Items"
+}

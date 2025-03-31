@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    "HLH",
+    "HHH"
+  ],
+  "key": {
+    "H": {
+      "item": "rcgf:hamon_ingot"
+    },
+    "L": {
+      "item": "rcgf:luck"
+    }
+  },
+  "result": {
+    "item": "rcgf:luck_and_pluck",
+    "count": 1
+  }
+}
